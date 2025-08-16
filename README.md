@@ -100,7 +100,7 @@ The project provides an easy-to-use interface that interacts with the database t
 
 Also, this project solves several inefficient processes by simplifying the ordering management by removing the need for manual printing, mailing, and writing out forms. It will also decrease the time required for order management and reduce the costs involved. This project also allows customers to order easily and quickly through the application, and it will allow business administrators to record and track order information in an efficient manner.
 
-![white](images/white.png)
+![white](images/white.jpg)
 
 #### Implementation
 
@@ -129,6 +129,6 @@ Through this approach, I have ensured that this project fulfills all its functio
 [Senior Project repository](https://github.com/Parker-Hub/SeniorProject)
 Access granted by request only. 
 
-![purple](images/purple.png)
+![purple](images/purple.jpg)
 
 <small>Senior Project Portfolio  |  February 2025 - September 2025</small>
