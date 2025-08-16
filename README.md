@@ -61,29 +61,27 @@ NLogs tracked logs in real-time for monitoring and debugging.
 * Analytics: Administrators can view order analytics performed on the database
 * Permissions & Security – Information follows strict business privacy requirements
 
-<img src="images/Login.png" alt="UML2" width="20%"> 
-<img src="images/create.png" alt="UML2" width="20%">
-<img src="images/view-all.png" alt="UML2" width="20%">
+<img src="images/Login.png" alt="UML2" width="30%"> <img src="images/create.png" alt="UML2" width="30%"> <img src="images/view-all.png" alt="UML2" width="30%">
 
 
 #### Key Diagrams
 
 ##### Flowchart
-<img src="images/Flowchart.png" alt="UML2" width="200">
+<img src="images/Flowchart.png" alt="UML2" width="300">
 
 ##### Sitemap Diagram
-<img src="images/Sitemap.png" alt="UML2" width="200">
+<img src="images/Sitemap.png" alt="UML2" width="300">
 
 ##### Wireframe Diagram
-<img src="images/wireframe1.png" alt="UML1" width="200">
-<img src="images/wireframe2.png" alt="UML2" width="200">
+<img src="images/wireframe1.png" alt="UML1" width="300">
+<img src="images/wireframe2.png" alt="UML2" width="300">
 
 ##### ER Diagram
-<img src="images/ER.png" alt="UML2" width="200">
+<img src="images/ER.png" alt="UML2" width="300">
 
 ##### UML Diagram
-<img src="images/UML1.png" alt="UML1" width="200">
-<img src="images/UML2.png" alt="UML2" width="200">
+<img src="images/UML1.png" alt="UML1" width="300">
+<img src="images/UML2.png" alt="UML2" width="300">
 
 ### Code Snippets
 
