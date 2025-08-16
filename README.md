@@ -73,21 +73,24 @@ NLogs tracked logs in real-time for monitoring and debugging.
 <img src="images/Sitemap.png" alt="UML2" width="300">
 
 ##### Wireframe Diagram
-<img src="images/wireframe1.png" alt="UML1" width="300"> <img src="images/wireframe2.png" alt="UML2" width="300">
+<img src="images/wireframe1.png" alt="UML1" width="400"> <img src="images/wireframe2.png" alt="UML2" width="400">
 
 ##### ER Diagram
 <img src="images/ER.png" alt="UML2" width="300">
 
 ##### UML Diagram
-<img src="images/UML1.png" alt="UML1" width="300">
-<img src="images/UML2.png" alt="UML2" width="300">
+<img src="images/UML1.png" alt="UML1" width="500">
+<img src="images/UML2.png" alt="UML2" width="500">
+
+---
 
 ### Code Snippets
 
-![filter-code](images/filter-code.png)
-![Login-code](images/Login-code.png)
-![SQL-code](images/SQL-code.png)
+<img src="images/filter-code.png" alt="Filter-code" width="300">
+<img src="images/Login-code.png" alt="Login-code" width="300">
+<img src="images/SQL-code.png" alt="SQL-code" width="300">
 
+---
 
 ### Background of the Project
 
