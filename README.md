@@ -1,6 +1,6 @@
-# Flower Planting Order Management Application
+# My Senior Project Portfolio
 
-## My Senior Project Portfolio
+## Flower Planting Order Management Application
 
 ### Project Overview
 
