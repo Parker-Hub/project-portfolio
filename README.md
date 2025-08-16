@@ -1,14 +1,14 @@
 # Senior Project Portfolio
 
 
-##Project Overview
+## Project Overview
 
-##Design Diagrams
+## Design Diagrams
 
-##Code Snippets
+## Code Snippets
 
-##Background of the Project
+## Background of the Project
 
-###Implementation
+### Implementation
 
-###Requirements to Run/Access the Project
+### Requirements to Run/Access the Project
