@@ -73,8 +73,7 @@ NLogs tracked logs in real-time for monitoring and debugging.
 <img src="images/Sitemap.png" alt="UML2" width="300">
 
 ##### Wireframe Diagram
-<img src="images/wireframe1.png" alt="UML1" width="300">
-<img src="images/wireframe2.png" alt="UML2" width="300">
+<img src="images/wireframe1.png" alt="UML1" width="300"> <img src="images/wireframe2.png" alt="UML2" width="300">
 
 ##### ER Diagram
 <img src="images/ER.png" alt="UML2" width="300">
