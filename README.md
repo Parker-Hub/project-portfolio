@@ -44,6 +44,9 @@ This project involved a hybrid approach between the traditional Waterfall and th
 * System Design
 * Physical Solution Design
 
+
+#### Technical Approach
+
 This application was developed with Microsoft ASP.NET CORE, with guiding principles such as the n-layer architecture, Model-View-Controller (MVC) pattern, dependency injection, and data access objects and services.
 
 It also uses MySQL for a relational database to efficiently store and manage the data, also offering potential future cloud compatibility. Languages included C#, HTML, CSS, JavaScript, and more. GitHub managed the storage, sharing, and backup code of this project. 
@@ -63,6 +66,11 @@ NLogs tracked logs in real-time for monitoring and debugging.
 
 <img src="images/Login.png" alt="UML2" width="30%"> <img src="images/create.png" alt="UML2" width="30%"> <img src="images/view-all.png" alt="UML2" width="30%">
 
+##### Functional Requirements as User Stories
+
+<img src="images/req1.jpg" alt="requirements-1" width="50%">
+<img src="images/req2.jpg" alt="requirements-2" width="50%">
+<img src="images/req3.jpg" alt="requirements-3" width="50%">
 
 #### Key Diagrams
 
