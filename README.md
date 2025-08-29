@@ -68,9 +68,9 @@ NLogs tracked logs in real-time for monitoring and debugging.
 
 ##### Functional Requirements as User Stories
 
-<img src="images/req1.jpg" alt="requirements-1" width="50%">
-<img src="images/req2.jpg" alt="requirements-2" width="50%">
-<img src="images/req3.jpg" alt="requirements-3" width="50%">
+<img src="images/req1.jpg" alt="requirements-1" width="75%">
+<img src="images/req2.jpg" alt="requirements-2" width="75%">
+<img src="images/req3.jpg" alt="requirements-3" width="75%">
 
 #### Key Diagrams
 
