@@ -121,13 +121,13 @@ Through this approach, I have ensured that this project fulfills all its functio
 
 #### Requirements to Run/Access the Project
 
-* To access the project, please contact me. For the privacy of the business, this project is protected in a private [Senior Project repository](https://github.com/Parker-Hub/SeniorProject), which I share access by request only.
+* To access the project, please contact me. For the privacy of the business, this project is protected in a private [Senior Project repository](https://github.com/Parker-Hub/SeniorProject), which I share access by request.
 * To run the project, you will need a SQL database set up. Appropriate DDL scripts are accessible in the project repository.
 * You will also need tools to run the project, such as with [Visual Studio](https://visualstudio.microsoft.com/).
 
 ##### Link to the portfolio
 [Senior Project repository](https://github.com/Parker-Hub/SeniorProject)
-Access granted by request only. 
+Access granted by request. 
 
 <img src="images/purple.jpg" alt="SQL-code" width="300">
 
