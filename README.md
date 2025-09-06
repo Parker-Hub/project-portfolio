@@ -64,7 +64,7 @@ NLogs tracked logs in real-time for monitoring and debugging.
 * Analytics: Administrators can view order analytics performed on the database
 * Permissions & Security – Information follows strict business privacy requirements
 
-<img src="images/Login.png" alt="UML2" width="30%"> <img src="images/create.png" alt="UML2" width="30%"> <img src="images/view-all.png" alt="UML2" width="30%">
+<img src="images/Login.png" alt="login" width="30%"> <img src="images/create.png" alt="create" width="30%"> <img src="images/view-all.png" alt="view-all" width="30%">
 
 ##### Functional Requirements as User Stories
 
@@ -75,16 +75,16 @@ NLogs tracked logs in real-time for monitoring and debugging.
 #### Key Diagrams
 
 ##### Flowchart
-<img src="images/Flowchart.png" alt="UML2" width="300">
+<img src="images/Flowchart.png" alt="flowchart" width="300">
 
 ##### Sitemap Diagram
-<img src="images/Sitemap.png" alt="UML2" width="300">
+<img src="images/Sitemap.png" alt="sitemap" width="300">
 
 ##### Wireframe Diagram
-<img src="images/wireframe1.png" alt="UML1" width="400"> <img src="images/wireframe2.png" alt="UML2" width="400">
+<img src="images/wireframe1.png" alt="Wireframe1" width="400"> <img src="images/wireframe2.png" alt="Wireframe2" width="400">
 
 ##### ER Diagram
-<img src="images/ER.png" alt="UML2" width="300">
+<img src="images/ER.png" alt="ER diagram" width="300">
 
 ##### UML Diagram
 <img src="images/UML1.png" alt="UML1" width="500">
@@ -108,7 +108,7 @@ The project provides an easy-to-use interface that interacts with the database t
 
 Also, this project solves several inefficient processes by simplifying the ordering management by removing the need for manual printing, mailing, and writing out forms. It will also decrease the time required for order management and reduce the costs involved. This project also allows customers to order easily and quickly through the application, and it will allow business administrators to record and track order information in an efficient manner.
 
-<img src="images/white.jpg" alt="SQL-code" width="300">
+<img src="images/white.jpg" alt="flower" width="300">
 
 #### Implementation
 
@@ -139,8 +139,18 @@ Access granted by request.
 
 <img src="images/purple.jpg" alt="SQL-code" width="300">
 
+---
+
+### Technology Showcase Poster
+
+<img src="images/ParkerShowcasePoster.pdf" alt="showcase-poster" width="30%">
+
+---
+
 ### Final Project Presentation and Demonstration
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4298d949e44e420db8bfaa789a0713b8?sid=05344185-f288-4ce4-9dee-12c38509c234" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
 
 <small>Senior Project Portfolio  |  February 2025 - September 2025</small>
