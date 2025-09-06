@@ -143,10 +143,13 @@ Access granted by request.
 
 ### Summary of Work Done During CST-451 Senior Project I and CST-452 Senior Project II
 
-<img src="images/schedule1a.png" alt="schedule" width="300">
-<img src="images/schedule1b.png" alt="schedule" width="300">
-<img src="images/schedule2a.png" alt="schedule" width="300">
-<img src="images/schedule2b.png" alt="schedule" width="300">
+<img src="images/schedule1a.png" alt="schedule" width="450">
+
+<img src="images/schedule1b.png" alt="schedule" width="450">
+
+<img src="images/schedule2a.png" alt="schedule" width="450">
+
+<img src="images/schedule2b.png" alt="schedule" width="450">
 
 
 ---
