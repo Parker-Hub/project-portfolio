@@ -143,7 +143,7 @@ Access granted by request.
 
 ### Technology Showcase Poster
 
-<iframe src="images/ParkerShowcasePoster.pdf" width="90%"></iframe>
+<iframe src="images/ParkerShowcasePoster.pdf" width="90%" height="600px"></iframe>
 
 ---
 
