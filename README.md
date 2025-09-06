@@ -139,4 +139,8 @@ Access granted by request.
 
 <img src="images/purple.jpg" alt="SQL-code" width="300">
 
+### Final Project Presentation and Demonstration
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/4298d949e44e420db8bfaa789a0713b8?sid=05344185-f288-4ce4-9dee-12c38509c234" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 <small>Senior Project Portfolio  |  February 2025 - September 2025</small>
