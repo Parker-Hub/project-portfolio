@@ -143,7 +143,7 @@ Access granted by request.
 
 ### Technology Showcase Poster
 
-<img src="images/showcase-poster.jpg" alt="showcase-poster" width="30%">
+<img src="images/showcase-poster.jpg" alt="showcase-poster" width="90%">
 
 ---
 
