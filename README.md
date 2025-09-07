@@ -135,6 +135,7 @@ Through this approach, I have ensured that this project fulfills all its functio
 
 ##### Link to the portfolio
 [Senior Project repository](https://github.com/Parker-Hub/SeniorProject)
+
 Access granted by request. 
 
 <img src="images/purple.jpg" alt="SQL-code" width="300">
